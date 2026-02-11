@@ -78,7 +78,7 @@ body {
   padding: 50px 20px;
   position: relative;
   height: 90vh;
-  background-image: url("../images/home3.jpeg"); /* replace later */
+  background-image: url("images/home3.jpeg"); /* replace later */
   background-size: cover;
   background-position: center;
   display: flex;
